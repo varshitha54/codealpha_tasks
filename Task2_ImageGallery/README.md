@@ -1,23 +1,31 @@
 # Image Gallery
 
 ## Description
-A responsive Image Gallery developed using HTML and CSS. The gallery displays a collection of images in an attractive grid layout that adjusts to different screen sizes, providing a clean and user-friendly viewing experience.
+A responsive Image Gallery developed using HTML and CSS. The project showcases a collection of images arranged in a clean and visually appealing gallery layout.
 
 ## Features
-- Responsive image gallery layout
-- Clean and modern design
+- Responsive design
+- Attractive grid layout
 - Hover effects on images
-- Mobile-friendly interface
+- Simple and user-friendly interface
 
 ## Technologies Used
 - HTML5
 - CSS3
 
-## Project Structure
+## Files
 - index.html
 - style.css
+- image1.jpg
+- image2.jpg
+- image3.jpg
+- image4.jpg
+- image5.jpg
+- image6.jpg
+- image7.jpg
+- image8.jpg
 
 ## How to Run
 1. Download or clone the repository.
 2. Open the `index.html` file in any web browser.
-3. Explore the responsive image gallery.
+3. Browse the image gallery.
