@@ -1,20 +1,27 @@
 # Portfolio Website
 
 ## Description
-A personal portfolio website developed using HTML and CSS to showcase my skills, projects, education, and contact information. The website features a responsive and modern design for an enhanced user experience.
+A personal portfolio website developed using HTML and CSS to showcase my profile, skills, education, projects, and contact information. The portfolio also includes a downloadable resume for easy access.
 
 ## Features
-- Responsive design
+- Responsive and modern design
 - About Me section
 - Skills section
-- Projects section
-- Contact section
-- Clean and modern UI
+- Education details
+- Projects showcase
+- Contact information
+- Downloadable Resume
 
 ## Technologies Used
 - HTML5
 - CSS3
 
+## Project Files
+- index.html
+- style.css
+- resume.pdf
+
 ## How to Run
-1. Download or clone the repository.
-2. Open the `index.html` file in any web browser.
+1. Download or clone this repository.
+2. Open the `index.html` file in any modern web browser.
+3. Navigate through the portfolio and use the resume download option if available.
